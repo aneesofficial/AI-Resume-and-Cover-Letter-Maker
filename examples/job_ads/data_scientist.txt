@@ -1,0 +1,15 @@
+Job Title: Data Scientist
+Company: Analytics Pro
+Location: New York, NY (Hybrid)
+
+About the Role:
+We are seeking a Data Scientist to help us turn raw data into actionable insights. You will work on predictive modeling, data cleaning, and creating visualizations to support business decisions.
+
+Key Requirements:
+- Degree in Computer Science, Statistics, Mathematics, or a related field.
+- Proven experience working as a Data Scientist or Data Analyst.
+- Expertise in Python and data manipulation libraries (Pandas, NumPy).
+- Experience with machine learning algorithms.
+- Strong SQL skills for data extraction.
+- Ability to create compelling data visualizations (Tableau, PowerBI).
+- Strong communication skills to explain complex findings to non-technical stakeholders.

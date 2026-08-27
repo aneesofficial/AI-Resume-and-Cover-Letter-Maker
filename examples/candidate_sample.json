@@ -1,0 +1,46 @@
+{
+  "personal_info": {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "phone": "+1-555-0123"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Technology",
+      "graduation_year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Software Developer",
+      "company": "Tech Solutions Inc.",
+      "start_date": "June 2021",
+      "end_date": "Present",
+      "responsibilities": [
+        "Developed and maintained scalable web applications using Python and Django.",
+        "Collaborated with cross-functional teams to design RESTful APIs.",
+        "Optimized database queries, reducing response time by 20%."
+      ]
+    },
+    {
+      "job_title": "Junior Data Analyst",
+      "company": "Data Insights LLC",
+      "start_date": "August 2020",
+      "end_date": "May 2021",
+      "responsibilities": [
+        "Cleaned and processed large datasets using Pandas and NumPy.",
+        "Created data visualization dashboards using Tableau."
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "Django",
+    "SQL",
+    "Pandas",
+    "REST APIs",
+    "Git",
+    "Machine Learning (Basic)"
+  ]
+}

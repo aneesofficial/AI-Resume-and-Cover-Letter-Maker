@@ -1,0 +1,15 @@
+Job Title: Software Engineer
+Company: Global Innovators
+Location: Remote
+
+About the Role:
+We are looking for a passionate Software Engineer to join our backend team. You will be responsible for designing and implementing scalable services, writing clean code, and working closely with our frontend team.
+
+Key Requirements:
+- Bachelor's degree in Computer Science or related field.
+- 2+ years of experience in backend development.
+- Strong proficiency in Python and frameworks like Django or Flask.
+- Experience with building and consuming RESTful APIs.
+- Familiarity with SQL databases (PostgreSQL or MySQL).
+- Understanding of version control systems (Git).
+- Excellent problem-solving skills and ability to work in a team.

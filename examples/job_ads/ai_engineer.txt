@@ -1,0 +1,15 @@
+Job Title: AI Engineer
+Company: FutureTech AI
+Location: San Francisco, CA
+
+About the Role:
+FutureTech AI is looking for an AI Engineer to build next-generation artificial intelligence applications. You will work on deploying LLMs, creating prompts, and building AI agents.
+
+Key Requirements:
+- B.S. or M.S. in Computer Science, AI, or equivalent.
+- Experience in developing AI-driven software applications.
+- Strong programming skills in Python.
+- Familiarity with Generative AI technologies and prompt engineering (OpenAI, Gemini).
+- Understanding of REST APIs and backend architecture.
+- Knowledge of machine learning concepts.
+- Eagerness to learn new technologies and adapt quickly.
